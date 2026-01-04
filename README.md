@@ -1,9 +1,9 @@
-Данное приложение создано для работы с основной программой SHUD, чтобы можно было открывать ХУДы на других компьютерах в локальной сети, либо по внешнему ИП компьютера.
+Данное приложение создано для работы с основной программой [SHUD](https://github.com/fyflo/SHUD), чтобы можно было открывать ХУДы на других компьютерах в локальной сети, либо по внешнему ИП компьютера.
 
 Тест проводился только в локальной сети.
 ________________________________________________________________________________________________________
 
-This application was created to work with the main SHUD program, so that you can open HUDs on other computers on the local network, or via an external computer IP.
+This application was created to work with the main [SHUD](https://github.com/fyflo/SHUD) program, so that you can open HUDs on other computers on the local network, or via an external computer IP.
 
 The test was carried out only on the local network.
 
